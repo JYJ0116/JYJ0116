@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm JYJ0116 👋</h1>
+<h1 align="center">Hi there, I'm Jo Yong Jin 👋</h1>
 
 <p align="center">
   <b>Student Researcher · PhD Candidate · Toxicology & Alternative Animal Testing</b>
