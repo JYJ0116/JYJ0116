@@ -14,7 +14,7 @@
 
 ## 🧪 About Me
 
-I am a PhD student at **UST (University of Science and Technology)** and a student researcher at the **Alternative Animal Research Center (동물대체연구센터)**, **National Institute of Toxicological Research (국가독성과학연구소, NITR)**, Republic of Korea.
+I am a PhD student at **UST (University of Science and Technology)** and a student researcher at the **Alternative Animal Research Center (동물대체연구센터)**, **Korea Institute of Toxicology (국가독성과학연구소, KIT)**, Republic of Korea.
 
 My research focuses on developing cutting-edge **organoid-based toxicity testing platforms** as alternatives to traditional animal models, bridging public health science and advanced predictive toxicology.
 
@@ -32,9 +32,9 @@ My research focuses on developing cutting-edge **organoid-based toxicity testing
 
 ## 🔬 Research
 
-**Lab:** Alternative Animal Research Center, National Institute of Toxicological Research (NITR)
+**Lab:** Alternative Animal Research Center, Korea Institute of Toxicology (KIT)
 
-**PI:** Dr. Ki-Seok Kim (김기석 박사), Head of Advanced Prediction Research Division, NITR
+**PI:** Dr. Ki-Seok Kim (김기석 박사), Head of Advanced Prediction Research Division, KIT
 
 ### Research Interests
 - 🧠 Organoid-based toxicology (brain, cardiac organoids)
