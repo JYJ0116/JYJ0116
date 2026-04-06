@@ -47,7 +47,7 @@ My research focuses on developing cutting-edge **organoid-based toxicity testing
 
 ## 👨‍🔬 Principal Investigator
 
-**Dr. Ki-Seok Kim (김기석, Ph.D.)**
+**Dr. Ki-Suk Kim (김기석, Ph.D.)**
 Head of Advanced Prediction Research Division
 National Institute of Toxicological Research (NITR / 국가독성과학연구소)
 
